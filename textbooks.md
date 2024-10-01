@@ -10,7 +10,7 @@ layout: home
 
 <div>
 	<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07493701.html">
-		<img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/074937-01.jpg" style="height: 200px;" border="1">
+		<img src="assets/images/074937-01.jpg" style="height: 200px;" border="1">
 	</a>
 </div>
 

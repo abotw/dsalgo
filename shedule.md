@@ -6,7 +6,7 @@ layout: home
 
 ---
 
-<pre>	Mo Tu We Th Fr Sa Su
+<pre>    Mo Tu We Th Fr Sa Su
 Sep  2  3  4  5  6  7  8    
      9 10 11 12 13 14 15    
     16 17 <span style="color: red; background: yellow;"><b>18</b></span> 19 <span style="color: red;"><b>20</b></span> 21 22    lec 01, lec 02; first class
