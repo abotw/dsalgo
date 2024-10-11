@@ -4,8 +4,6 @@ layout: home
 ---
 # Resources, 课程资源
 
-- <https://writings.sh/algorithms>
-
 ## 1. Courses, 相关课程
 
 - [CS 61B](https://fa24.datastructur.es/) (Fall 2024, [UCB](https://www.berkeley.edu/), Justin Yokota and Peyrin Kao)
@@ -15,6 +13,10 @@ layout: home
 - [算法设计与分析](https://www.algo2024w.spacepenguin.com.cn/) (Fall 2024, [上海师范大学](https://www.shnu.edu.cn/), [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/))
 	- 过往学期: [Fall 2023](https://www.algo2023w.spacepenguin.com.cn/)
 
+## 2. Others
+
+- <https://writings.sh/algorithms>
+
 ---
 
-Last Updated: Tue Oct  1 10:39:39 CST 2024
+Last Updated: Tue Oct  1 16:49:48 CST 2024

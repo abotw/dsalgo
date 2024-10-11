@@ -7,6 +7,8 @@ layout: home
 ## 基本信息
 
 <dl>
+  <dt>课程</dt>
+  <dd>Data Structure and Algorithms (数据结构和算法)</dd>
   <dt>主讲</dt>
   <dd>孟文文</dd>
   <dt>学分</dt>
@@ -24,4 +26,4 @@ layout: home
 
 ---
 
-Last Updated: Tue Oct  1 10:37:24 CST 2024
+Last Updated: Tue Oct  1 16:49:18 CST 2024
