@@ -5,4 +5,4 @@ theme: just-the-docs
 url: https://abotw.github.io/dsalgo/
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/abotw/dsalgo
+  Repo: https://github.com/abotw/dsalgo
