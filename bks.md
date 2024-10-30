@@ -2,7 +2,12 @@
 title: Textbooks
 layout: page
 ---
-# Textbooks, 教材
+# Textbooks
+
+## 在线教材
+
+- [OI Wiki](https://oi-wiki.org/)
+- [OpenDSA](https://opendsa-server.cs.vt.edu/)
 
 ## 课程教材
 
@@ -10,15 +15,10 @@ layout: page
 
 <div>
 	<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07493701.html">
-		<img src="assets/images/074937-01.jpg" style="height: 200px;" border="1">
+		<img src="./attachments/textcover.jpg" style="height: 200px;" border="1">
 	</a>
 </div>
 
 ---
 
-- [OI Wiki](https://oi-wiki.org/)
-- [OpenDSA](https://opendsa-server.cs.vt.edu/)
-
----
-
-Last Updated: Tue Oct  1 10:42:30 CST 2024
+Last Updated: Wed Oct 30 17:33:34 CST 2024
