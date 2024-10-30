@@ -2,7 +2,7 @@
 title: Schedule
 layout: page
 ---
-# Schedule, 学期日程
+# Schedule
 
 ---
 
