@@ -15,6 +15,7 @@ parent: Labs
 ![](attachments/r5-4.png)
 
 > [!question] Checking if Symbols are Balanced
+> 
 > We consider a limited version of the problem to check if symbols are balanced. We consider only two possible symbols: square brackets and parentheses. That is, `[`, `]`, `(`, and `)`. Symbols are balanced if the right bracket and parenthesis correspond to the left ones, respectively. For example, `()` is balanced, while `[])(` is not.
 > 
 > Write a program to check if symbols are balanced.
@@ -22,6 +23,7 @@ parent: Labs
 > *from: https://www.cs.fsu.edu/~duan/classes/cop4530/examples/r5/balancingsymbols.pdf*
 
 > [!quote] Balancing Symbols
+> 
 > Compilers check your programs for syntax errors, but frequently a lack of one symbol (such as a missing brace or comment starter) can cause the compiler to spill out a hundred lines of diagnostics without identifying the real error.
 > 
 > A useful tool in this situation is a program that checks whether everything is balanced. Thus, every right brace, bracket, and parenthesis must correspond to its left counterpart.
@@ -68,7 +70,7 @@ if (!stk.empty())
 
 - <https://www.cs.fsu.edu/~duan/classes/cop4530/examples/r5/balancingsymbols_wrong.cpp>
 
-```cpp title="balancingsymbols.cpp"
+```cpp
 /*
  * File: balancingsymbols.cpp
  * --------------------------
@@ -243,4 +245,5 @@ int main()
 
 ---
 
-Last Updated: Wed Oct 30 20:39:30 CST 2024
+Last Updated: Wed Oct 30 23:34:21 CST 2024
+
