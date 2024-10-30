@@ -1,7 +1,7 @@
 ---
 title: "Lab 04: Stack"
 layout: page
-parent: Notes
+parent: Labs
 ---
 
 # Lab 04: Stack
