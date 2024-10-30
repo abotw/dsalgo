@@ -1,0 +1,4 @@
+- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1238/section/section6/
+- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1238/lectures/19-lists1/
+	- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1238/lectures/19-lists1/7_31_Lecture_19.pdf
+- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1238/lectures/20-lists2/
