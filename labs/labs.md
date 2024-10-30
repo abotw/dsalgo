@@ -9,7 +9,7 @@ Last Updated: Wed Oct 30 16:33:53 CST 2024
 
 ## Lab Schedule
 
-![[attachments/dsalgo-实验课课程内容安排.png]]
+![](attachments/实验课课程内容安排.dsalgo24f.png)
 
 | 周次  | 课次     | 日期    | 课时  | 实验内容    | 实验要求             | 是否答辩 | 是否提交实验报告 |
 | --- | ------ | ----- | --- | ------- | ---------------- | ---- | -------- |
