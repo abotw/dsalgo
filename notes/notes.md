@@ -1,8 +1,8 @@
 ---
 title: Notes
-layout: home
+layout: page
 ---
 
 # Notes
 
-Last Updated: Fri Oct 11 14:11:45 CST 2024
+Last Updated: Thu Oct 31 22:26:31 CST 2024
