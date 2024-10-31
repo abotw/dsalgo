@@ -5,6 +5,13 @@ parent: Labs
 ---
 
 # Lab 04: Stack
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 - <https://www.cs.fsu.edu/~duan/classes/cop4530/examples/r5/r5.pdf>
 

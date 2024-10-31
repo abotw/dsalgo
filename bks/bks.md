@@ -2,7 +2,7 @@
 title: Textbooks
 layout: page
 ---
-`# Textbooks
+# Textbooks
 
 ## 在线教材
 
@@ -15,10 +15,11 @@ layout: page
 
 <div>
 	<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07493701.html">
-		<img src="./attachments/textcover.jpg" style="height: 200px;" border="1">
+		<img src="attachments/textcover.jpg" style="height: 200px;" border="1">
 	</a>
 </div>
 
 ---
 
-Last Updated: Wed Oct 30 17:33:34 CST 2024
+Last Updated: Thu Oct 31 22:06:37 CST 2024
+
