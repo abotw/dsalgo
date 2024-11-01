@@ -29,6 +29,7 @@ parent: Labs
 > 
 > *from: https://www.cs.fsu.edu/~duan/classes/cop4530/examples/r5/balancingsymbols.pdf*
 
+
 > [!quote] Balancing Symbols
 > 
 > Compilers check your programs for syntax errors, but frequently a lack of one symbol (such as a missing brace or comment starter) can cause the compiler to spill out a hundred lines of diagnostics without identifying the real error.
